@@ -1,4 +1,5 @@
 ### Hi there 👋
+Check out a video that I made to portray what my passion is and why I chose to pursue Computer Science ->https://www.youtube.com/watch?v=gn6XIyN6vbA&t=5s .
 
 <!--
 **alecxanderBlade/alecxanderBlade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,5 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for someone who is qualified in the tech field to assess my technical knowledge.
 - 📫 How to reach me: Email->alecxanderandaya6@gmail.com, FB->Alecxander Andaya
 - ⚡ Fun fact: I am half Syrian.
-     Check out a video that I made to portray what my passion is and why I chose to pursue Computer Science ->https://www.youtube.com/watch?v=gn6XIyN6vbA&t=5s .
 --> 
