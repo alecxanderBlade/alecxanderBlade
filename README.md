@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/h3u7w8BR07IHDsnzQw/giphy.gif"> <img src="https://media.giphy.com/media/yAOjunY81Trjy/giphy.gif" width = "500" height = "269">
+<img src="https://media.giphy.com/media/h3u7w8BR07IHDsnzQw/giphy.gif">
 
 ### Hi there 👋 My name is Alecxander Jamille Andaya
 Check out a video that I made to portray what my passion is and why I chose to pursue Computer Science ->https://www.youtube.com/watch?v=gn6XIyN6vbA&t=5s .
